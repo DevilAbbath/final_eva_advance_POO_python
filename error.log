@@ -1,0 +1,2 @@
+2024-09-04 20:31:11,300 - ERROR - Error al modificar el subtipo del anuncio: Subtipo no válido
+2024-09-04 20:33:08,000 - ERROR - Error al modificar el nombre de la campaña: El nombre de la campaña excede los 250 caracteres.
